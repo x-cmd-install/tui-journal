@@ -1,0 +1,57 @@
+about:
+  description: Your journal app if you live in a terminal
+  license: MIT
+  homepage: https://crates.io/crates/tui-journal
+  head: fe15556
+  archived: false
+  latestVersion: v0.17.0
+  collectedAt: 2026-09-04T05:02:47Z
+timeline:
+  created: 2023-03-20
+  lastCommit: 2026-09-02
+  lastRelease: 2026-07-10
+popularity:
+  star: 778
+  watcher: 7
+  fork: 30
+  release: 31
+  contributor: 10
+  pullRequest: 115
+  issue: 97
+language:
+  Rust: 440283
+  Makefile: 1519
+totalLine: 441802
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 2
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 7
+    openPR: 5
+    closedIssue: 0
+    openIssue: 1
+    commit: 22
+  last180d:
+    since: 2026-03-08
+    release: 1
+    mergedPR: 21
+    openPR: 8
+    closedIssue: 1
+    openIssue: 5
+    commit: 38
+  last360d:
+    since: 2025-09-09
+    release: 1
+    mergedPR: 28
+    openPR: 8
+    closedIssue: 1
+    openIssue: 7
+    commit: 47
