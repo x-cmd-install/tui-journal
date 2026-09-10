@@ -4,7 +4,7 @@
 
 Your journal app if you live in a terminal
 
-![tui-journal](https://repo.x-cmd.io/tui-journal.svg)
+![tui-journal](https://repo.x-cmd.io/tui-journal.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,15 @@ x install tui-journal
 - **最新版本**: `v0.18.0` (2026-09-06)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-09-06T10:22:50Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tjournal-linux-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-linux-arm64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
+| [tjournal-linux-gnu.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-linux-gnu.tar.gz) | 3.8 MiB | `native/unknown` |
+| [tjournal-mac-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-mac-arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [tjournal-win.zip](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-win.zip) | 3.6 MiB | `other` |
 
 ## 流行度
 
@@ -62,4 +70,4 @@ tui-journal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:59:49Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:04:42Z._
