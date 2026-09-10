@@ -12,6 +12,18 @@ Your journal app if you live in a terminal
 x install tui-journal
 ```
 
+## Code insight
+
+Total: **12,055** lines of code across **72** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 11,946 | 143 | 2,146 | 63 |
+| Toml | 54 | 0 | 6 | 1 |
+| Makefile | 40 | 0 | 12 | 1 |
+| Sql | 15 | 0 | 1 | 3 |
+| Markdown | 0 | 457 | 251 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/AmmarAbouZor/tui-journal>
@@ -23,15 +35,6 @@ x install tui-journal
 - **Latest**: `v0.18.0` (2026-09-06)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 4
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [tjournal-linux-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-linux-arm64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
-| [tjournal-linux-gnu.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-linux-gnu.tar.gz) | 3.8 MiB | `native/unknown` |
-| [tjournal-mac-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-mac-arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
-| [tjournal-win.zip](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-win.zip) | 3.6 MiB | `other` |
 
 ## Popularity
 
@@ -46,20 +49,31 @@ x install tui-journal
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 3 | 1 | 0 | 1 | 7 |
+| last60d | 2026-07-12 | 1 | 4 | 1 | 0 | 1 | 20 |
 | 90d | 2026-06-12 | 2 | 9 | 1 | 0 | 1 | 29 |
+| last180d | 2026-03-14 | 2 | 24 | 2 | 2 | 3 | 46 |
 | 360d | 2025-09-15 | 2 | 32 | 2 | 3 | 5 | 57 |
+| last720d | 2024-09-20 | 10 | 86 | 3 | 17 | 8 | 166 |
 
-## Code size
+## Release assets
 
-Total: **12,055** lines of code across **72** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tjournal-linux-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-linux-arm64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
+| [tjournal-linux-gnu.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-linux-gnu.tar.gz) | 3.8 MiB | `native/unknown` |
+| [tjournal-mac-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-mac-arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
+| [tjournal-win.zip](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-win.zip) | 3.6 MiB | `other` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 11,946 | 143 | 2,146 | 63 |
-| Toml | 54 | 0 | 6 | 1 |
-| Makefile | 40 | 0 | 12 | 1 |
-| Sql | 15 | 0 | 1 | 3 |
-| Markdown | 0 | 457 | 251 | 4 |
+## Distribution status
+
+Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.18.0` | ✅ latest |
+| Nix unstable | `0.18.0` | ✅ latest |
+| Alpine edge | `0.10.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.17.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -70,4 +84,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:34:48Z._
