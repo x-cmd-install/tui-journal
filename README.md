@@ -48,12 +48,12 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 3 | 1 | 0 | 1 | 7 |
-| last60d | 2026-07-12 | 1 | 4 | 1 | 0 | 1 | 20 |
-| 90d | 2026-06-12 | 2 | 9 | 1 | 0 | 1 | 29 |
-| last180d | 2026-03-14 | 2 | 24 | 2 | 2 | 3 | 46 |
-| 360d | 2025-09-15 | 2 | 32 | 2 | 3 | 5 | 57 |
-| last720d | 2024-09-20 | 10 | 86 | 3 | 17 | 8 | 166 |
+| 30d | 2026-08-12 | 1 | 3 | 1 | 0 | 1 | 7 |
+| last60d | 2026-07-13 | 1 | 4 | 1 | 0 | 1 | 20 |
+| 90d | 2026-06-13 | 2 | 9 | 1 | 0 | 1 | 29 |
+| last180d | 2026-03-15 | 2 | 24 | 2 | 2 | 3 | 46 |
+| 360d | 2025-09-16 | 2 | 32 | 2 | 3 | 5 | 57 |
+| last720d | 2024-09-21 | 10 | 86 | 3 | 17 | 8 | 166 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:21:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:07:31Z._
