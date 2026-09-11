@@ -38,7 +38,7 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 778 · **Forks**: 31 · **Open issues**: 97 · **Contributors**: 10
+- **Stars**: 779 · **Forks**: 31 · **Open issues**: 97 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -66,7 +66,7 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **6** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,4 +84,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:07:31Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:54:32Z._
