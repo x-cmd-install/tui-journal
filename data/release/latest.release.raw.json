@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4001374,
       "digest": "sha256:c6bfdb12848521363a9fd58cbcc69efc8c3fb226ebdcc444c831a75550841132",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-09-06T10:23:09Z",
       "updated_at": "2026-09-06T10:23:10Z",
       "browser_download_url": "https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-linux-gnu.tar.gz"
