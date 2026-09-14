@@ -48,12 +48,12 @@ x install tui-journal
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last60d | 2026-07-15 | 1 | 4 | 1 | 0 | 1 | 20 |
-| 90d | 2026-06-15 | 2 | 9 | 1 | 0 | 1 | 29 |
-| last180d | 2026-03-17 | 2 | 23 | 2 | 2 | 3 | 44 |
-| 360d | 2025-09-18 | 2 | 32 | 2 | 3 | 5 | 57 |
-| last720d | 2024-09-23 | 10 | 83 | 3 | 17 | 8 | 166 |
+| 30d | 2026-08-15 | 1 | 3 | 1 | 0 | 0 | 6 |
+| last60d | 2026-07-16 | 1 | 4 | 1 | 0 | 1 | 20 |
+| 90d | 2026-06-16 | 2 | 9 | 1 | 0 | 1 | 29 |
+| last180d | 2026-03-18 | 2 | 20 | 2 | 2 | 3 | 44 |
+| 360d | 2025-09-19 | 2 | 32 | 2 | 3 | 5 | 57 |
+| last720d | 2024-09-24 | 10 | 83 | 3 | 17 | 8 | 166 |
 
 ## Release 资产
 
@@ -64,17 +64,6 @@ x install tui-journal
 | [tjournal-mac-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-mac-arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
 | [tjournal-win.zip](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-win.zip) | 3.6 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/tui-journal) 上共有 **20** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.18.0` | ✅ latest |
-| Nix unstable | `0.18.0` | ✅ latest |
-| Alpine edge | `0.10.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.17.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 tui-journal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tui-journal` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +73,4 @@ tui-journal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:15:45Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:16:36Z._
