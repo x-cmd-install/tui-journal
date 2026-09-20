@@ -4,7 +4,7 @@
 
 Your journal app if you live in a terminal
 
-![tui-journal](https://repo.x-cmd.io/tui-journal.svg)
+[![x-cmd/install — tui-journal Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tui-journal.svg)](https://x-cmd.com/install/tui-journal)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 783 · **Forks**: 31 · **Open issues**: 97 · **Contributors**: 10
+- **Stars**: 782 · **Forks**: 31 · **Open issues**: 97 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 3 | 1 | 0 | 0 | 6 |
-| last60d | 2026-07-20 | 1 | 4 | 1 | 0 | 1 | 20 |
-| 90d | 2026-06-20 | 2 | 9 | 1 | 0 | 1 | 29 |
-| last180d | 2026-03-22 | 2 | 20 | 1 | 2 | 3 | 44 |
-| 360d | 2025-09-23 | 2 | 32 | 2 | 3 | 5 | 57 |
-| last720d | 2024-09-28 | 9 | 81 | 3 | 17 | 8 | 154 |
+| 30d | 2026-08-21 | 1 | 3 | 1 | 0 | 0 | 5 |
+| last60d | 2026-07-22 | 1 | 4 | 1 | 0 | 1 | 9 |
+| 90d | 2026-06-22 | 2 | 9 | 1 | 0 | 1 | 26 |
+| last180d | 2026-03-24 | 2 | 20 | 1 | 2 | 3 | 44 |
+| 360d | 2025-09-25 | 2 | 32 | 2 | 3 | 5 | 57 |
+| last720d | 2024-09-30 | 9 | 81 | 3 | 17 | 8 | 154 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:09:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:14:45Z._
