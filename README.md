@@ -38,7 +38,7 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 783 · **Forks**: 31 · **Open issues**: 97 · **Contributors**: 10
+- **Stars**: 784 · **Forks**: 31 · **Open issues**: 97 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 3 | 1 | 0 | 0 | 5 |
-| last60d | 2026-07-29 | 1 | 4 | 1 | 0 | 1 | 9 |
-| 90d | 2026-06-29 | 2 | 7 | 1 | 0 | 1 | 26 |
-| last180d | 2026-03-31 | 2 | 20 | 1 | 2 | 3 | 44 |
-| 360d | 2025-10-02 | 2 | 32 | 2 | 3 | 5 | 57 |
-| last720d | 2024-10-07 | 9 | 79 | 3 | 17 | 8 | 154 |
+| 30d | 2026-08-29 | 1 | 3 | 1 | 0 | 0 | 4 |
+| last60d | 2026-07-30 | 1 | 4 | 1 | 0 | 1 | 8 |
+| 90d | 2026-06-30 | 2 | 7 | 1 | 0 | 1 | 25 |
+| last180d | 2026-04-01 | 2 | 19 | 1 | 2 | 3 | 43 |
+| 360d | 2025-10-03 | 2 | 32 | 2 | 3 | 5 | 57 |
+| last720d | 2024-10-08 | 9 | 79 | 3 | 17 | 8 | 154 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:35:57Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:41:42Z._
