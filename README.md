@@ -14,13 +14,12 @@ x install tui-journal
 
 ## Code insight
 
-Total: **12,055** lines of code across **72** files in the top 5 languages.
+Total: **12,015** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 11,946 | 143 | 2,146 | 63 |
 | Toml | 54 | 0 | 6 | 1 |
-| Makefile | 40 | 0 | 12 | 1 |
 | Sql | 15 | 0 | 1 | 3 |
 | Markdown | 0 | 457 | 251 | 4 |
 
@@ -33,7 +32,7 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.18.0` (2026-09-06)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-10-16
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +41,18 @@ Total: **12,055** lines of code across **72** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 444 · **Open PRs**: 8 · **Closed issues**: 87 · **Open issues**: 10 · **Commits**: 973
+- **Releases**: 32 · **Merged PRs**: 445 · **Open PRs**: 8 · **Closed issues**: 87 · **Open issues**: 10 · **Commits**: 975
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 1 | 3 | 6 | 0 | 0 | 7 |
-| 90d | 2026-07-18 | 1 | 4 | 6 | 0 | 1 | 20 |
-| last180d | 2026-04-19 | 2 | 17 | 6 | 2 | 3 | 41 |
-| 360d | 2025-10-21 | 2 | 32 | 7 | 3 | 5 | 57 |
-| last720d | 2024-10-26 | 9 | 77 | 8 | 16 | 8 | 150 |
+| 30d | 2026-09-17 | 0 | 1 | 5 | 0 | 0 | 2 |
+| last60d | 2026-08-18 | 1 | 4 | 6 | 0 | 0 | 9 |
+| 90d | 2026-07-19 | 1 | 5 | 6 | 0 | 1 | 22 |
+| last180d | 2026-04-20 | 2 | 17 | 6 | 1 | 3 | 43 |
+| 360d | 2025-10-22 | 2 | 33 | 7 | 3 | 5 | 59 |
+| last720d | 2024-10-27 | 9 | 78 | 8 | 16 | 8 | 152 |
 
 ## Release assets
 
@@ -73,4 +72,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:50:22Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:38:32Z._
