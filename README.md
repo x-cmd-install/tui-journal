@@ -47,12 +47,12 @@ Total: **12,015** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 5 | 0 | 0 | 2 |
-| last60d | 2026-08-23 | 1 | 4 | 6 | 0 | 0 | 7 |
-| 90d | 2026-07-24 | 1 | 5 | 6 | 0 | 1 | 12 |
-| last180d | 2026-04-25 | 2 | 16 | 6 | 1 | 3 | 36 |
-| 360d | 2025-10-27 | 2 | 33 | 7 | 3 | 5 | 59 |
-| last720d | 2024-11-01 | 9 | 78 | 8 | 16 | 8 | 152 |
+| 30d | 2026-09-23 | 0 | 1 | 5 | 0 | 0 | 2 |
+| last60d | 2026-08-24 | 1 | 4 | 6 | 0 | 0 | 7 |
+| 90d | 2026-07-25 | 1 | 5 | 6 | 0 | 1 | 12 |
+| last180d | 2026-04-26 | 2 | 14 | 6 | 0 | 3 | 36 |
+| 360d | 2025-10-28 | 2 | 33 | 7 | 3 | 5 | 59 |
+| last720d | 2024-11-02 | 9 | 78 | 8 | 16 | 8 | 152 |
 
 ## Release assets
 
@@ -63,6 +63,17 @@ Total: **12,015** lines of code across **71** files in the top 5 languages.
 | [tjournal-mac-arm64.tar.gz](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-mac-arm64.tar.gz) | 3.1 MiB | `native/linux/arm64` |
 | [tjournal-win.zip](https://github.com/AmmarAbouZor/tui-journal/releases/download/v0.18.0/tjournal-win.zip) | 3.6 MiB | `other` |
 
+## Distribution status
+
+Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **9** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.18.0` | ✅ latest |
+| Nix unstable | `0.18.0` | ✅ latest |
+| Alpine edge | `0.10.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.18.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for tui-journal lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tui-journal` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -72,4 +83,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:00:56Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:02:58Z._
