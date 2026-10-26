@@ -14,11 +14,11 @@ x install tui-journal
 
 ## Code insight
 
-Total: **12,015** lines of code across **71** files in the top 5 languages.
+Total: **12,103** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,946 | 143 | 2,146 | 63 |
+| Rust | 12,034 | 148 | 2,173 | 64 |
 | Toml | 54 | 0 | 6 | 1 |
 | Sql | 15 | 0 | 1 | 3 |
 | Markdown | 0 | 457 | 251 | 4 |
@@ -32,7 +32,7 @@ Total: **12,015** lines of code across **71** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.18.0` (2026-09-06)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-25
 - **Assets in release**: 4
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **12,015** lines of code across **71** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 445 · **Open PRs**: 8 · **Closed issues**: 87 · **Open issues**: 10 · **Commits**: 975
+- **Releases**: 32 · **Merged PRs**: 446 · **Open PRs**: 7 · **Closed issues**: 89 · **Open issues**: 8 · **Commits**: 976
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 1 | 5 | 0 | 0 | 2 |
-| last60d | 2026-08-26 | 1 | 4 | 6 | 0 | 0 | 6 |
-| 90d | 2026-07-27 | 1 | 5 | 6 | 0 | 1 | 10 |
-| last180d | 2026-04-28 | 2 | 12 | 6 | 0 | 3 | 34 |
-| 360d | 2025-10-30 | 2 | 33 | 7 | 3 | 5 | 59 |
-| last720d | 2024-11-04 | 9 | 77 | 8 | 16 | 8 | 152 |
+| 30d | 2026-09-26 | 0 | 2 | 5 | 0 | 0 | 3 |
+| last60d | 2026-08-27 | 1 | 5 | 5 | 0 | 0 | 7 |
+| 90d | 2026-07-28 | 1 | 6 | 5 | 1 | 0 | 11 |
+| last180d | 2026-04-29 | 2 | 13 | 5 | 1 | 2 | 35 |
+| 360d | 2025-10-31 | 2 | 34 | 6 | 5 | 3 | 60 |
+| last720d | 2024-11-05 | 9 | 78 | 7 | 18 | 6 | 153 |
 
 ## Release assets
 
@@ -65,7 +65,7 @@ Total: **12,015** lines of code across **71** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **9** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **10** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:58:53Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:57:48Z._
