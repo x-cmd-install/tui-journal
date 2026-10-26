@@ -231,9 +231,9 @@
   srcname: misc/tui-journal
   binname: tui-journal
   visiblename: misc/tui-journal
-  version: 0.17.0
+  version: 0.18.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Your journal app if you live in a terminal
   maintainers:
     - pkgsrc-users@netbsd.org
