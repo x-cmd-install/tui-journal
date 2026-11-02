@@ -41,18 +41,18 @@ Total: **12,103** lines of code across **72** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 446 · **Open PRs**: 7 · **Closed issues**: 89 · **Open issues**: 8 · **Commits**: 976
+- **Releases**: 32 · **Merged PRs**: 446 · **Open PRs**: 8 · **Closed issues**: 89 · **Open issues**: 8 · **Commits**: 976
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-02 | 1 | 4 | 5 | 0 | 0 | 3 |
-| 90d | 2026-08-03 | 1 | 5 | 5 | 1 | 0 | 10 |
-| last180d | 2026-05-05 | 2 | 12 | 5 | 1 | 2 | 32 |
-| 360d | 2025-11-06 | 2 | 34 | 6 | 5 | 3 | 60 |
-| last720d | 2024-11-11 | 8 | 71 | 7 | 17 | 6 | 142 |
+| 30d | 2026-10-03 | 0 | 2 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-03 | 1 | 4 | 6 | 0 | 0 | 3 |
+| 90d | 2026-08-04 | 1 | 5 | 6 | 1 | 0 | 10 |
+| last180d | 2026-05-06 | 2 | 12 | 6 | 1 | 2 | 32 |
+| 360d | 2025-11-07 | 2 | 34 | 7 | 5 | 3 | 60 |
+| last720d | 2024-11-12 | 8 | 71 | 8 | 17 | 6 | 142 |
 
 ## Release assets
 
@@ -65,7 +65,7 @@ Total: **12,103** lines of code across **72** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **10** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/tui-journal). **9** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for tui-journal lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:22:22Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:23:32Z._
