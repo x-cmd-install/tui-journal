@@ -82,8 +82,8 @@
   srcname: tui-journal
   binname: tui-journal
   visiblename: tui-journal
-  version: 0.17.0
-  origversion: 0.17.0-1
+  version: 0.3.1
+  origversion: 0.3.1-1
   status: outdated
   summary: Write and manage journals/notes from the terminal
   licenses:
@@ -93,9 +93,9 @@
   srcname: tui-journal
   binname: tui-journal
   visiblename: tui-journal
-  version: 0.18.0
-  origversion: 0.18.0-1
-  status: newest
+  version: 0.3.1
+  origversion: 0.3.1-1
+  status: outdated
   summary: Write and manage journals/notes from the terminal
   licenses:
     - MIT
