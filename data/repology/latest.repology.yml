@@ -51,6 +51,18 @@
   summary: Write and manage journals/notes from the terminal
   licenses:
     - MIT
+- repo: pkgsrc_2026_3
+  srcname: misc/tui-journal
+  binname: tui-journal
+  visiblename: misc/tui-journal
+  version: 0.17.0
+  origversion: null
+  status: outdated
+  summary: Your journal app if you live in a terminal
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - misc
 - repo: freebsd
   srcname: textproc/tui-journal
   binname: tui-journal
@@ -82,9 +94,9 @@
   srcname: tui-journal
   binname: tui-journal
   visiblename: tui-journal
-  version: 0.3.1
-  origversion: 0.3.1-1
-  status: outdated
+  version: 0.18.0
+  origversion: 0.18.0-1
+  status: newest
   summary: Write and manage journals/notes from the terminal
   licenses:
     - MIT
@@ -93,9 +105,9 @@
   srcname: tui-journal
   binname: tui-journal
   visiblename: tui-journal
-  version: 0.3.1
-  origversion: 0.3.1-1
-  status: outdated
+  version: 0.18.0
+  origversion: 0.18.0-1
+  status: newest
   summary: Write and manage journals/notes from the terminal
   licenses:
     - MIT
@@ -208,18 +220,6 @@
   binname: tui-journal
   visiblename: misc/tui-journal
   version: 0.16.1
-  origversion: null
-  status: outdated
-  summary: Your journal app if you live in a terminal
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - misc
-- repo: pkgsrc_2026_3
-  srcname: misc/tui-journal
-  binname: tui-journal
-  visiblename: misc/tui-journal
-  version: 0.17.0
   origversion: null
   status: outdated
   summary: Your journal app if you live in a terminal
